@@ -124,5 +124,11 @@
     "title": "물가 감각 테스트",
     "emoji": "🛒",
     "desc": "이 라면 한 봉지 얼마일까?"
+  },
+  {
+    "appName": "blind-chart-swing",
+    "title": "블라인드 차트 테스트",
+    "emoji": "📈",
+    "desc": "다음 달은 오를까 내릴까?"
   }
 ]
