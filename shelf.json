@@ -106,5 +106,23 @@
     "title": "순발력 테스트",
     "emoji": "⚡",
     "desc": "반응속도부터 기억력까지, 6가지로 재 보세요"
+  },
+  {
+    "appName": "future-balance-sim",
+    "title": "미래 통장 시뮬레이터",
+    "emoji": "🏦",
+    "desc": "지금처럼 쓰면 10년 뒤 얼마 모을까?"
+  },
+  {
+    "appName": "korea-average-gauge",
+    "title": "평균 감각 판독기",
+    "emoji": "📊",
+    "desc": "한국인 몇 퍼센트가 이럴까?"
+  },
+  {
+    "appName": "grocery-price-guess",
+    "title": "물가 감각 테스트",
+    "emoji": "🛒",
+    "desc": "이 라면 한 봉지 얼마일까?"
   }
 ]
