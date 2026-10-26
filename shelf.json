@@ -1,0 +1,104 @@
+[
+  {
+    "appName": "daily-quiz-1min",
+    "title": "1분 경제·상식 퀴즈",
+    "emoji": "🧠",
+    "desc": "하루 3문제로 쌓는 경제 상식"
+  },
+  {
+    "appName": "daily-fortune-1min",
+    "title": "매일 운세",
+    "emoji": "🔮",
+    "desc": "생년월일로 보는 오늘 하루 운세"
+  },
+  {
+    "appName": "spelling-quiz-1min",
+    "title": "1분 맞춤법 퀴즈",
+    "emoji": "✍️",
+    "desc": "헷갈리는 맞춤법, 하루 3문제"
+  },
+  {
+    "appName": "nonsense-quiz-1min",
+    "title": "난센스 퀴즈",
+    "emoji": "🤪",
+    "desc": "하루 3문제, 웃기면 정답"
+  },
+  {
+    "appName": "zodiac-fortune-12",
+    "title": "띠별 운세",
+    "emoji": "🐉",
+    "desc": "12띠 중 내 띠의 오늘 운세"
+  },
+  {
+    "appName": "daily-idiom-4",
+    "title": "하루 한 사자성어",
+    "emoji": "📜",
+    "desc": "매일 하나씩 뜻을 맞혀 보세요"
+  },
+  {
+    "appName": "salary-takehome-calc",
+    "title": "연봉 실수령액 계산기",
+    "emoji": "💰",
+    "desc": "4대보험·세금 빼고 한 달에 얼마?"
+  },
+  {
+    "appName": "lotto-pick-lucky",
+    "title": "로또 번호 뽑기",
+    "emoji": "🍀",
+    "desc": "번호 6개, 5줄을 한 번에 뽑아요"
+  },
+  {
+    "appName": "dilemma-balance",
+    "title": "난제 밸런스",
+    "emoji": "⚖️",
+    "desc": "둘 중 하나만 고른다면?"
+  },
+  {
+    "appName": "office-balance",
+    "title": "직장인 밸런스",
+    "emoji": "💼",
+    "desc": "직장인이라면 둘 중 하나만 고른다면?"
+  },
+  {
+    "appName": "food-worldcup-16",
+    "title": "음식 월드컵",
+    "emoji": "🏆",
+    "desc": "16개 중 최애 음식 하나를 뽑아보세요"
+  },
+  {
+    "appName": "travel-worldcup-16",
+    "title": "여행지 월드컵",
+    "emoji": "🧳",
+    "desc": "국내 여행지 16곳 중 딱 한 곳만 고른다면?"
+  },
+  {
+    "appName": "age-updown",
+    "title": "나이 업다운",
+    "emoji": "🎂",
+    "desc": "이 사람, 몇 살일까요?"
+  },
+  {
+    "appName": "year-updown",
+    "title": "연도 업다운",
+    "emoji": "📅",
+    "desc": "이 일, 몇 년에 일어났을까요?"
+  },
+  {
+    "appName": "umpire-sim",
+    "title": "너도 주심",
+    "emoji": "⚾",
+    "desc": "스트라이크일까, 볼일까?"
+  },
+  {
+    "appName": "sword-enhance-sim",
+    "title": "검 강화하기",
+    "emoji": "⚔️",
+    "desc": "어디까지 강화하고 팔지 정해 보세요"
+  },
+  {
+    "appName": "car-enhance-sim",
+    "title": "자동차 강화하기",
+    "emoji": "🏎️",
+    "desc": "경차부터 드림카까지, 어디서 팔지 정해 보세요"
+  }
+]
