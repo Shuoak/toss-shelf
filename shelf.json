@@ -166,5 +166,35 @@
     "title": "1분 멍때리기 가능?",
     "emoji": "😶",
     "desc": "60초 동안 아무것도 누르지 마세요"
+  },
+  {
+    "appName": "slide-stop-pro",
+    "title": "딱 선에 멈출 수 있어?",
+    "emoji": "🥌",
+    "desc": "바닥 따라 달라지는 힘 조절 테스트"
+  },
+  {
+    "appName": "one-stroke-path",
+    "title": "한붓 잇기: 몇초 컷?",
+    "emoji": "🧶",
+    "desc": "손 떼지 않고 모든 칸을 한 번에"
+  },
+  {
+    "appName": "rule-switch-sort",
+    "title": "내 멀티태스킹 몇점?",
+    "emoji": "🗂️",
+    "desc": "바뀌는 규칙대로 60초 카드 분류"
+  },
+  {
+    "appName": "pack-it-tight",
+    "title": "빈틈 없이 다 들어가?",
+    "emoji": "🎒",
+    "desc": "짐 블록을 돌려 가방 꽉 채우기, 90초"
+  },
+  {
+    "appName": "mine-logic",
+    "title": "지뢰 추리: 몇초 컷?",
+    "emoji": "💧",
+    "desc": "숫자 단서만으로 안전한 칸 다 열기"
   }
 ]
