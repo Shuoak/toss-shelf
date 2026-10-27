@@ -136,5 +136,35 @@
     "title": "오늘의 문맥 추리",
     "emoji": "🔍",
     "desc": "첫 문장만 보고 맞히면 천재"
+  },
+  {
+    "appName": "dodge-rush",
+    "title": "상위 1프로 회피력?",
+    "emoji": "☔",
+    "desc": "쏟아지는 빗방울, 몇 초 버틸까요?"
+  },
+  {
+    "appName": "daily-suspect",
+    "title": "오늘의 범인: 누구게?",
+    "emoji": "🔍",
+    "desc": "네 명의 말 속 모순을 찾아 범인을 지목해요"
+  },
+  {
+    "appName": "number-forge-24",
+    "title": "암산 천재: 몇문제 컷?",
+    "emoji": "🧮",
+    "desc": "숫자 4개로 24 만들기, 2분에 몇 문제?"
+  },
+  {
+    "appName": "freehand-precision",
+    "title": "손끝 정밀도: 몇점?",
+    "emoji": "✏️",
+    "desc": "자 없이 그린 원, 몇 점일까요?"
+  },
+  {
+    "appName": "zone-out-hold",
+    "title": "1분 멍때리기 가능?",
+    "emoji": "😶",
+    "desc": "60초 동안 아무것도 누르지 마세요"
   }
 ]
