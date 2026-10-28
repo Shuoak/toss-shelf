@@ -196,5 +196,35 @@
     "title": "지뢰 추리: 몇초 컷?",
     "emoji": "💧",
     "desc": "숫자 단서만으로 안전한 칸 다 열기"
+  },
+  {
+    "appName": "color-memory-recall",
+    "title": "방금 본 색 기억나?",
+    "emoji": "🎨",
+    "desc": "5초 본 색, 얼마나 똑같이 만들까요"
+  },
+  {
+    "appName": "pitch-beat-sense",
+    "title": "나 혹시 음치·박치?",
+    "emoji": "🎵",
+    "desc": "음높이·박자 감각을 재미로 재 봐요"
+  },
+  {
+    "appName": "thumb-typing-speed",
+    "title": "엄지 타자 몇 타?",
+    "emoji": "⌨️",
+    "desc": "폰 키보드로 분당 몇 타 치는지 재 봐요"
+  },
+  {
+    "appName": "my-type-test",
+    "title": "나 어떤 유형일까?",
+    "emoji": "🤔",
+    "desc": "6가지 테스트로 알아보는 내 유형"
+  },
+  {
+    "appName": "mirror-or-rotate",
+    "title": "돌려도 같은 모양?",
+    "emoji": "🧊",
+    "desc": "머릿속으로 돌려 보는 공간 감각 테스트"
   }
 ]
